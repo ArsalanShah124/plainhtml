@@ -1,5 +1,5 @@
 body{
-    font:15px/1.5 Arial, Helvetica,sans-serif;
+    font:15px/ 1.5 Arial, Helvetica,sans-serif;
     padding:0;
     margin:0;
     background-color: #f4f4f4
@@ -45,9 +45,9 @@ header a{
 
 header li{
     float:left;
-    display: inline;
+    display:inline;
     padding: 0 20px 0 20px;
-}
+  }
 
 header #brading{
     float:left;
@@ -58,9 +58,9 @@ header #branding h1{
 }
 
 header nav{
-    float: right;
+    float:right;
     margin-top:10px;
-}
+  }
 
 header .highlight, header .current a{
     color: #e8491d;
